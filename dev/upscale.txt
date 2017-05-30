@@ -1,0 +1,4 @@
+#method for upscaling sprites for H4H
+#make sprite in 250x250px spritesheet
+#upscale selected pixels to 50px
+#profit?
